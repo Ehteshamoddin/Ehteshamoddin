@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[High Resolution Image Application](https://github.com/nabilpatel4012/HighResImg021)**
 
-- 🌱 I’m currently learning **Java Programming.**
+- 🌱 I’m currently learning **Data Structures and Algorithmns, Java, C++ Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
