@@ -71,7 +71,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Ehteshamoddin/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ehteshamoddin">
 </a>
 <a href="https://github.com/Ehteshamoddin?tab=followers"><img src="https://img.shields.io/github/followers/Ehteshamoddin?label=Followers&style=social" alt="GitHub Badge"></a>
