@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **ehteshamoddinss@gmail.com**
 
-- ⚡ Fun fact **I regularly try different linux distros and I love that.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
