@@ -1,4 +1,4 @@
-<p align = "center"> <a href="#"><img width="auto" height="auto" src="https://cdn-icons-png.flaticon.com/512/1803/1803671.png" height="175px"/></a>
+<!--- <p align = "center"> <a href="#"><img width="auto" height="auto" src="https://cdn-icons-png.flaticon.com/512/1803/1803671.png" height="175px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ehteshamoddin Siddiqui</h1>
 <h3 align="center">Passionate in Machine Learning, Kinda Android and web Developer, Die Hard Linux Enthusiast and an Intermediate Programmer.</h3>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[High Resolution Image Application](https://github.com/nabilpatel4012/HighResImg021)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithmns, Java, C++ Programming.**
+- 🌱 I’m currently learning **Data Structures and Algorithmns, Java, C, C++ Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>    
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.learn-c.org/" target="_blank"> <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
@@ -68,7 +68,8 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 
 </p>
 
-## ❤ Views and Followers
+<!--- ## ❤ Views and Followers -->
+##Views and Followers
 <a href="https://github.com/Ehteshamoddin/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ehteshamoddin">
 </a>
