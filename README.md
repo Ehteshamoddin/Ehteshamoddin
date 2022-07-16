@@ -69,7 +69,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 </p>
 
 <!--- ## ❤ Views and Followers -->
-##Views and Followers
+## Views and Followers
 <a href="https://github.com/Ehteshamoddin/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ehteshamoddin">
 </a>
