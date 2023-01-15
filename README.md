@@ -86,8 +86,16 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
     <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
   
-  <a href="https://github.com/Ehteshamoddin" target="_blank">
+<!--   <a href="https://github.com/Ehteshamoddin" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
+  </a> &nbsp;&nbsp; -->
+    
+  <a href="https://twitter.com/ehteshamoddinss" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  </a> &nbsp;&nbsp;
+    
+  <a href="https://www.instagram.com/ehteshamoddin/" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a> &nbsp;&nbsp;
   
 <!--   <a href="ehteshamoddinss@gmail.com" target="_blank">
