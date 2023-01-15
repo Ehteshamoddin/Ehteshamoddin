@@ -59,8 +59,6 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <br/>
 <br/>
 
-<a href="https://github.com/Ehteshamoddin/github-readme-activity-graph"><img alt="Ehteshamoddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ehteshamoddin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
