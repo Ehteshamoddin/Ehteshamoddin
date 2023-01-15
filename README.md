@@ -1,9 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ehteshamoddin+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ehteshamoddin Welcome to my Profile! animated typed out">
 <img  src="assets/borderseperator.gif">
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
+</p> <br> -->
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ehteshamoddin Siddiqui</h1> -->
 <h3 align="center">Passionate in DevOps, Kinda web and Android Devloper, Die Hard Linux Enthusiast and an Intermediate Programmer.</h3>
