@@ -1,4 +1,9 @@
-<!--- <p align = "center"> <a href="#"><img width="auto" height="auto" src="https://cdn-icons-png.flaticon.com/512/1803/1803671.png" height="175px"/></a> -->
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ehteshamoddin+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ehteshamoddin Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p> <br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ehteshamoddin Siddiqui</h1>
 <h3 align="center">Passionate in Machine Learning, Kinda Android and web Developer, Die Hard Linux Enthusiast and an Intermediate Programmer.</h3>
