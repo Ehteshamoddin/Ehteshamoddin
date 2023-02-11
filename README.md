@@ -6,14 +6,14 @@
 </p> <br> -->
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ehteshamoddin Siddiqui</h1> -->
-<h3 align="center">Passionate in DevOps, Kinda web and Android Devloper, Die Hard Linux Enthusiast and an Intermediate Programmer.</h3>
+<h3 align="center">Software Engineer | Web Developer | Learning DevOps | Linux Enthusiast | Continuously improving my skills and knowledge to deliver innovative solutions</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[High Resolution Image Application](https://github.com/nabilpatel4012/HighResImg021)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithmns, Java, C, C++ Programming.**
+- 🌱 I’m currently learning **Data Structures and Algorithmns C, C++,Java Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
