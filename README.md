@@ -1,19 +1,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Ehteshamoddin+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Ehteshamoddin Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
+<img  src="assets/borderseperator.gif">
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
+</p> <br> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ehteshamoddin Siddiqui</h1>
-<h3 align="center">Software Engineer | Web Developer | Learning DevOps | Linux Enthusiast | Continuously improving my skills and knowledge to deliver innovative solutions</h3>
+<h3 align="center">Passionate in Machine Learning, Kinda Android and web Developer, Die Hard Linux Enthusiast and an Intermediate Programmer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[High Resolution Image Application](https://github.com/nabilpatel4012/HighResImg021)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithmns, Java, C, C++ Programming.**
+- 🌱 I’m currently learning **Data Structures and Algorithmns C, C++,Java Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -59,19 +59,17 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 <br/>
 <br/>
 
-<a href="https://github.com/Ehteshamoddin/github-readme-activity-graph"><img alt="Ehteshamoddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ehteshamoddin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
-## Connect with me:
+<!-- ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ehteshamoddin-siddiqui-b719b9206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ehteshamoddinss"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ehteshamoddin/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-</p>
+</p> -->
 
 <!--- ## ❤ Views and Followers -->
 ## Views and Followers
@@ -79,3 +77,28 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
     <img src="https://komarev.com/ghpvc/?username=Ehteshamoddin">
 </a>
 <a href="https://github.com/Ehteshamoddin?tab=followers"><img src="https://img.shields.io/github/followers/Ehteshamoddin?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<!-- New connect-->
+<img src="assets/borderseperator.gif">
+  <h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ehteshamoddin-siddiqui-b719b9206/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assets/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+<!--   <a href="https://github.com/Ehteshamoddin" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assets/githublogo.png"/>
+  </a> &nbsp;&nbsp; -->
+    
+  <a href="https://twitter.com/ehteshamoddinss" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  </a> &nbsp;&nbsp;
+    
+  <a href="https://www.instagram.com/ehteshamoddin/" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a> &nbsp;&nbsp;
+  
+<!--   <a href="ehteshamoddinss@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assets/gmailogo.png" />
+  </a> &nbsp;&nbsp; -->
+</p> 
