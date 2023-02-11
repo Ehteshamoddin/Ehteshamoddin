@@ -11,7 +11,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[High Resolution Image Application](https://github.com/nabilpatel4012/HighResImg021)**
+<!-- - 🔭 I’m currently working on **[High Resolution Image Application](https://github.com/nabilpatel4012/HighResImg021)** -->
+- 🔭 I’m currently working on MERN Stack Projects
 
 - 🌱 I’m currently learning **Data Structures and Algorithmns C, C++,Java Programming.**
 
